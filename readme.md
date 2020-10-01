@@ -13,7 +13,7 @@ A professional, high-performance e-commerce development plugin for WordPress.
 - [Current dev (1.4.dev)](https://github.com/ingenesis/shopp/tree/1.4.x)
 - [Future dev (1.5.dev)](https://github.com/ingenesis/shopp/archive/master.zip)
 
-## Looking for Help?
+## Are youLooking for Help, Here are some suggestions?
 
 - [User Guide Documentation](https://shopplugin.com/docs/) - The official documentation for how to use and setup Shopp
 - [Knowledge Base](https://shopplugin.com/kb/) - Troubleshooting articles for the most common problems and error messages
